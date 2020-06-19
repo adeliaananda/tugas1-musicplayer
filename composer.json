@@ -1,0 +1,19 @@
+{
+    "name": "adelia/utsadel",
+    "description": "sistem infoemasi music player",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "adelia",
+            "email": "adelananda07@gmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : {
+            "app\\" : "app/"
+        }
+    }
+}
